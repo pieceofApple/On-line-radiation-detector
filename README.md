@@ -23,6 +23,9 @@
 
 - ![image](https://github.com/pieceofApple/On-line-radiation-detector/assets/116827010/9c4786ae-7f81-44e1-9546-f374bec5048b)
 
+## 调试现象
+  ![RA6M5调试](https://github.com/pieceofApple/On-line-radiation-detector/assets/116827010/b128dc85-3abc-45e6-9c16-f649b240dfba)
+
 ## 📡 连接示例
 ```plaintext
 RA6M5          ATGM332D GPS     迪文串口屏       ESP8266

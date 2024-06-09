@@ -24,6 +24,8 @@
 - ![image](https://github.com/pieceofApple/On-line-radiation-detector/assets/116827010/9c4786ae-7f81-44e1-9546-f374bec5048b)
 ## 电路设计
 -![升压及测量电路](https://github.com/pieceofApple/On-line-radiation-detector/assets/116827010/a9692a17-21cc-4646-8c83-a42af5f03deb)
+## 程序框图
+![image](https://github.com/pieceofApple/On-line-radiation-detector/assets/116827010/9124bf18-643f-41a9-8310-89b68a4f251e)
 
 ## 调试现象
   ![RA6M5调试](https://github.com/pieceofApple/On-line-radiation-detector/assets/116827010/b128dc85-3abc-45e6-9c16-f649b240dfba)
